@@ -1,0 +1,59 @@
+{
+
+  "token": "wlejktutaj", 
+  "prefix": "@",
+
+  "host": "IP", 
+  "user": "login-do-bazt",
+  "password": "wklejtutaj", 
+  "database": "essentialmode", 
+
+  "wlcommand": "dodaj", 
+  "guildidwl": "ID-kanalu", 
+  "kanalwl": "ID-kanalu", 
+
+  "kanalst": "ID-kanalu",
+  "wiadomoscst": "IDwiadomosci", 
+  "ipst": "ipwyspy:30120",
+  "maksst": "64",
+  "kolorst": "0, 255, 0",
+  "nazwafoost": "GameFamily.pl",
+  "nazwaglst": "GameFamily.pl",
+  "url": "http://gamefamily.pl:30120/players.json",
+  
+
+
+  "kategoriatic": "",
+  "roleidtic": "", 
+  "komendatic": "", 
+  "logitic": "", 
+
+  "roladev": "rola-z-discorda", 
+  "iddev": "ID-kanalu",
+  "komendadev": "dev", 
+
+  "rolehex": "rola-z-discorda",
+  "komendahex": "hex",
+
+  "rolaogl": "rola-z-discorda",
+  "idogl": "ID-kanalu", 
+  "komendaogl": "ogloszenie", 
+
+  "rolapoll": "rola-z-discorda",
+  "komendapoll": "poll",
+
+  "kanalprop": "Turysta",
+  "komendaprop": "propozycja",
+
+  "rolasay": "rola-z-discorda",
+  "komendasay": "say",
+  
+  "kanalstatuswiad": "🌴┇lista-graczy",
+    "sloty": "64",
+
+  "rolars": "rola-z-discorda",
+  "komendars": "restart"
+
+ 
+ 
+}
